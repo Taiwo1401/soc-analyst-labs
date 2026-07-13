@@ -54,7 +54,7 @@ The objective of this lab was to learn and practice fundamental Linux commands u
 
 ### Network Connectivity Test
 
-![ping.google.com](screenshots/ping.png)
+![ping.google.com](screenshots/ping.google.com.png)
 
 ### Viewing IP Address
 
@@ -62,7 +62,7 @@ The objective of this lab was to learn and practice fundamental Linux commands u
 
 ### Viewing Listening Ports
 
-![ss tuln](screenshots/ss.png)
+![ss-tuln](screenshots/ss-tuln.png)
 
 ---
 
