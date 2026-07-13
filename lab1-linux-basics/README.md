@@ -62,7 +62,7 @@ The objective of this lab was to learn and practice fundamental Linux commands u
 
 ### Viewing Listening Ports
 
-![ss](screenshots/ss.png)
+![ss -tuln](screenshots/ss.png)
 
 ---
 
