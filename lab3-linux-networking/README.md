@@ -57,7 +57,7 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### IP Address Information
 
-![ip addr](screenshots/ip-address.png)
+![ip address](screenshots/ip-address.png)
 
 ---
 
