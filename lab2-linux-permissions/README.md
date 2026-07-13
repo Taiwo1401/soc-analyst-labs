@@ -1,4 +1,4 @@
-# Lab 04 – Linux File Permissions
+# Lab 02 – Linux File Permissions
 
 ## Objective
 
