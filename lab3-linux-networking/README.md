@@ -57,55 +57,55 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### IP Address Information
 
-![ip address](screenshots/ip-address.png)
+![ip address](screenshot/ip-address.png)
 
 ---
 
 ### Routing Table
 
-![ip route](screenshots/ip-route.png)
+![ip route](screenshot/ip-route.png)
 
 ---
 
 ### Network Interfaces
 
-![ip link](screenshots/ip-link.png)
+![ip link](screenshot/ip-link.png)
 
 ---
 
 ### Ping Test (Hostname)
 
-![ping hostname](screenshots/ping-google.png)
+![ping hostname](screenshot/ping-google.png)
 
 ---
 
 ### Ping Test (IP Address)
 
-![ping ip](screenshots/ping-8888.png)
+![ping ip](screenshot/ping-8888.png)
 
 ---
 
 ### Listening Ports
 
-![ss listening](screenshots/ss-listening.png)
+![ss listening](screenshot/ss-listening.png)
 
 ---
 
 ### Active Connections
 
-![ss connections](screenshots/ss-connections.png)
+![ss connections](screenshot/ss-connections.png)
 
 ---
 
 ### DNS Lookup
 
-![nslookup](screenshots/nslookup.png)
+![nslookup](screenshot/nslookup.png)
 
 ---
 
 ### HTTP Request using Curl
 
-![curl](screenshots/curl.png)
+![curl](screenshot/curl.png)
 
 ---
 
