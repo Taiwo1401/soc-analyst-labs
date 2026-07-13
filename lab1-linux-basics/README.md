@@ -58,11 +58,11 @@ The objective of this lab was to learn and practice fundamental Linux commands u
 
 ### Viewing IP Address
 
-![ip addr](screenshots/ip-addr.png)
+![ip-addr](screenshots/ip-addr.png)
 
 ### Viewing Listening Ports
 
-![ss -tuln](screenshots/ss.png)
+![ss tuln](screenshots/ss.png)
 
 ---
 
