@@ -1,4 +1,4 @@
-# Lab 03 – Linux Basics
+# Lab 01 – Linux Basics
 
 ## Objective
 
