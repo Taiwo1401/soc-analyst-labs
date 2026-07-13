@@ -87,13 +87,13 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### Listening Ports
 
-![ss listening](screenshot/ss-listening.png)
+![ss listening](screenshot/ss-l.png)
 
 ---
 
 ### Active Connections
 
-![ss connections](screenshot/ss-connections.png)
+![ss connections](screenshot/ss.png)
 
 ---
 
