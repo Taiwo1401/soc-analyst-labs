@@ -1,4 +1,4 @@
-# Lab 05 – Linux Networking
+# Lab 03 – Linux Networking
 
 ## Objective
 
@@ -57,7 +57,7 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### IP Address Information
 
-![ip addr](screenshots/ip-addr.png)
+![ip addr](screenshots/ip-address.png)
 
 ---
 
