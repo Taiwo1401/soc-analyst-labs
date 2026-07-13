@@ -75,13 +75,13 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### Ping Test (Hostname)
 
-![ping hostname](screenshot/ping-google.png)
+![ping hostname](screenshot/ping.google.com.png)
 
 ---
 
 ### Ping Test (IP Address)
 
-![ping ip](screenshot/ping-8888.png)
+![ping ip](screenshot/ping8.8.8.8.png)
 
 ---
 
@@ -111,7 +111,7 @@ Linux provides built-in networking tools that allow administrators and security 
 
 ### Traceroute
 
-![traceroute](screenshots/traceroute.png)
+![traceroute](screenshot/traceroute.png)
 
 ---
 
