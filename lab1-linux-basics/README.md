@@ -54,7 +54,7 @@ The objective of this lab was to learn and practice fundamental Linux commands u
 
 ### Network Connectivity Test
 
-![ping](screenshots/ping.png)
+![ping.google.com](screenshots/ping.png)
 
 ### Viewing IP Address
 
