@@ -60,55 +60,55 @@ Every network service listens on a specific port. Identifying which ports are op
 
 ### Nmap Version
 
-![version](screenshots/version.png)
+![version](screenshot/version.png)
 
 ---
 
 ### Scan Localhost
 
-![localhost](screenshots/localhost.png)
+![localhost](screenshot/localhost.png)
 
 ---
 
 ### Scan Local IP Address
 
-![ip scan](screenshots/ip-scan.png)
+![ip scan](screenshot/ip-scan.png)
 
 ---
 
 ### Scan a Specific Port
 
-![port22](screenshots/port22.png)
+![port22](screenshot/port22.png)
 
 ---
 
 ### Scan Multiple Ports
 
-![multiple ports](screenshots/multiple-port.png)
+![multiple ports](screenshot/multiple-port.png)
 
 ---
 
 ### Service Version Detection
 
-![service detection](screenshots/service-detection.png)
+![service detection](screenshot/service-detection.png)
 
 ---
 
 ### Operating System Detection
 
-![os detection](screenshots/os-detection.png)
+![os detection](screenshot/os-detection.png)
 
 ---
 
 ### Aggressive Scan
 
-![aggressive scan](screenshots/aggressive-scan.png)
+![aggressive scan](screenshot/aggressive-scan.png)
 
 ---
 
 ### Saved Scan Results
 
-![scan results](screenshots/scan-result.png)
+![scan results](screenshot/scan-result.png)
 
 ---
 
