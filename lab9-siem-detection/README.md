@@ -227,7 +227,7 @@ Generate a list of event sources with more than five recorded error events for f
 
 ### Host Analysis
 
-![Host Analysis](screenshots/host-detection.png)
+![Host Analysis](screenshots/hosts.png)
 
 ---
 
