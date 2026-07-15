@@ -84,7 +84,7 @@ Every network service listens on a specific port. Identifying which ports are op
 
 ### Scan Multiple Ports
 
-![multiple ports](screenshots/multiple-ports.png)
+![multiple ports](screenshots/multiple-port.png)
 
 ---
 
@@ -108,7 +108,7 @@ Every network service listens on a specific port. Identifying which ports are op
 
 ### Saved Scan Results
 
-![scan results](screenshots/scan-results.png)
+![scan results](screenshots/scan-result.png)
 
 ---
 
